@@ -1,0 +1,8 @@
+div {
+    height:250px;
+    width:250px;
+    background-image: url("Shraddha Krapha.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 10px;
+}
